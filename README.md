@@ -1,8 +1,8 @@
 # EMBERFALL — A Roguelike Deck-Builder
 
-[![Competition](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/best-card-game-20261122-1826)
-[![Rank](https://img.shields.io/badge/make.fun-rank-9cf)](https://make.fun/bounty/best-card-game-20261122-1826)
-[![Reward](https://img.shields.io/badge/make.fun-reward-gold)](https://make.fun/bounty/best-card-game-20261122-1826)
+[![make.fun · best-card-game-20261122-1826](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![rank](https://make.fun/badge/best-card-game-20261122-1826/embongtuyul/makefun-best-card-game-20261122-1826/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![reward](https://make.fun/badge/best-card-game-20261122-1826/embongtuyul/makefun-best-card-game-20261122-1826/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
 
 **EMBERFALL** is an original roguelike deck-builder card game, built for the
 [best-card-game-20261122-1826](https://make.fun/bounty/best-card-game-20261122-1826)
